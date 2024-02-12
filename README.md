@@ -28,8 +28,8 @@ pip install aiohttp beautifulsoup4 openpyxl fake_useragent
 
 ## 使用方法
 
-1. 確保您已安裝所有套件。
-2. 將程序下載到您的本地機器。
+1. 確保已安裝所有套件。
+2. 將程序下載到本地機器。
 3. 在程序的所在目錄中打開終端。
 4. 執行腳本：
 
@@ -37,4 +37,4 @@ pip install aiohttp beautifulsoup4 openpyxl fake_useragent
     python douban_top250_scraper.py
     ```
 
-5. 腳本運行完成後，您將在腳本的同一目錄下找到名為 `豆瓣電影Top250.xlsx` 的Excel文件。
+5. 腳本運行完成後，將在程序的同一目錄下找到名為 `豆瓣電影Top250.xlsx` 的Excel文件。
